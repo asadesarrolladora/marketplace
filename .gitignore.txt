@@ -1,0 +1,9 @@
+# Archivos de la base de datos
+*.sql
+
+# Archivos de configuración con credenciales (ajusta el nombre si es diferente)
+marketplace/config.php
+api-marketplace/db_connect.php
+
+# Carpeta de dependencias (si usas Composer)
+vendor/
